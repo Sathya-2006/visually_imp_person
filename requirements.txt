@@ -1,0 +1,11 @@
+
+opencv-python
+mediapipe
+pygame
+firebase-admin
+twilio
+pyttsx3
+ultralytics
+geocoder
+geopy
+
