@@ -18,7 +18,7 @@ This project is an AI and IoT-based security system designed to assist visually 
 - **IoT Devices:** PIR sensors, cameras, smart locks, smart lights
 - **Cloud Services:** Firebase Cloud Messaging, Firestore Database## Installation
 
-1. **Clone the repository**
+#1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/visually_imp_person.git
 
