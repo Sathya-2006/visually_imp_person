@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Intruder Detection   Alert Workflow" src="https://github.com/user-attachments/assets/ad6e130a-45c1-48cd-9e4f-f530c68a989e" /># Intruder Detection and Smart Alert System for Visually Impaired Person
+# Intruder Detection and Smart Alert System for Visually Impaired Person
 ## Description
 This project is an AI and IoT-based security system designed to assist visually impaired individuals. It detects intruders, suspicious behaviors, and environmental threats, providing real-time voice and haptic alerts to the user. Simultaneously, it notifies caregivers or family members via Firebase and automated emergency calls using Twilio or Google Dialer API. The system ensures adaptive silent SOS alerts, smart home integration, and multi-device accessibility, enhancing the safety, autonomy, and confidence of visually impaired users.
 ## Features
@@ -13,6 +13,7 @@ This project is an AI and IoT-based security system designed to assist visually 
 
 # Flow Diagram
 <img width="914" height="605" alt="image" src="https://github.com/user-attachments/assets/b8010ede-f19d-4467-8f67-bca304fd230b" />
+
 
 
 
@@ -53,4 +54,7 @@ git clone https://github.com/yourusername/visually_imp_person.git
 # License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+<img width="911" height="609" alt="image" src="https://github.com/user-attachments/assets/bc155e04-e3b4-48ca-80dc-3c41d4bb47af" />
+
  
