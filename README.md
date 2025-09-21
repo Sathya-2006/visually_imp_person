@@ -23,8 +23,8 @@ This project is an AI and IoT-based security system designed to assist visually 
 git clone https://github.com/yourusername/visually_imp_person.git
 
 2.**Navigate to the project folder**
+          cd visually_imp_person
 
-    cd visually_imp_person
 3.**Install Python dependencies**
 
     pip install -r requirements.txt
