@@ -1,4 +1,4 @@
-# Intruder Detection and Smart Alert System for Visually Impaired Person
+<img width="1536" height="1024" alt="Intruder Detection   Alert Workflow" src="https://github.com/user-attachments/assets/ad6e130a-45c1-48cd-9e4f-f530c68a989e" /># Intruder Detection and Smart Alert System for Visually Impaired Person
 ## Description
 This project is an AI and IoT-based security system designed to assist visually impaired individuals. It detects intruders, suspicious behaviors, and environmental threats, providing real-time voice and haptic alerts to the user. Simultaneously, it notifies caregivers or family members via Firebase and automated emergency calls using Twilio or Google Dialer API. The system ensures adaptive silent SOS alerts, smart home integration, and multi-device accessibility, enhancing the safety, autonomy, and confidence of visually impaired users.
 ## Features
@@ -11,6 +11,11 @@ This project is an AI and IoT-based security system designed to assist visually 
 - Multi-device support: Android app, wearable devices, and cloud notifications
 - Cloud-based alert notifications through **Firebase**
 
+# Flow Diagram
+<img width="914" height="605" alt="image" src="https://github.com/user-attachments/assets/b8010ede-f19d-4467-8f67-bca304fd230b" />
+
+
+
 ## Technology Stack
 - **Backend:** Python, Firebase, Twilio API
 - **Frontend:** Android Studio (Java/Kotlin)
@@ -19,16 +24,16 @@ This project is an AI and IoT-based security system designed to assist visually 
 - **Cloud Services:** Firebase Cloud Messaging, Firestore Database## Installation
 
 ## 1.Clone the repository
-```bash
+
 git clone https://github.com/yourusername/visually_imp_person.git
 
 ## 2.Navigate to the project folder:
         cd visually_imp_person
 
-#3.Install Python dependencies:
+# 3.Install Python dependencies:
         pip install -r requirements.txt
 
-#4.Set up Firebase
+# 4.Set up Firebase
     1.Add your Firebase project credentials in config/firebase_config.json
     2.Enable Firebase Cloud Messaging
     3.Configure Twilio / Google Dialer API
@@ -36,8 +41,16 @@ git clone https://github.com/yourusername/visually_imp_person.git
     5.Run the detection module
     6.python detect_intruder.py
 
-##Usage
+## Usage
    1.Launch the AI detection script to monitor intruders.
    2.Receive voice or haptic alerts on your mobile device.
    3.Notifications sent to caregivers via Firebase and automated emergency calls.
    4.Integrate smart home devices to automatically lock doors or turn on lights.
+
+# Demo
+ CLICK LINK:[https://lnkd.in/p/gGepVjGn]
+
+# License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+ 
