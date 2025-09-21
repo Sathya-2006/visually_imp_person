@@ -18,16 +18,17 @@ This project is an AI and IoT-based security system designed to assist visually 
 - **IoT Devices:** PIR sensors, cameras, smart locks, smart lights
 - **Cloud Services:** Firebase Cloud Messaging, Firestore Database## Installation
 
-#1. **Clone the repository**
+##1.Clone the repository
 ```bash
 git clone https://github.com/yourusername/visually_imp_person.git
 
-2.**Navigate to the project folder:** 'cd visually_imp_person'
+#2.Navigate to the project folder:
+        cd visually_imp_person
 
-3.**Install Python dependencies:** 'pip install -r requirements.txt'
+#3.Install Python dependencies:
+        pip install -r requirements.txt
 
-4.**Set up Firebase**
-
+#4.Set up Firebase
     1.Add your Firebase project credentials in config/firebase_config.json
     2.Enable Firebase Cloud Messaging
     3.Configure Twilio / Google Dialer API
@@ -35,7 +36,7 @@ git clone https://github.com/yourusername/visually_imp_person.git
     5.Run the detection module
     6.python detect_intruder.py
 
-**Usage**
+##Usage
    1.Launch the AI detection script to monitor intruders.
    2.Receive voice or haptic alerts on your mobile device.
    3.Notifications sent to caregivers via Firebase and automated emergency calls.
